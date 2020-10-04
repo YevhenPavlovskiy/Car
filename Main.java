@@ -11,9 +11,9 @@ public class Main {
         car.add(new Car(7868672, "Mersedes", "AM-130", 2010, 0,"Purple", 24000, "AM321"));
         car.add(new Car(6546546, "Deo", "Matis",2010, 7,"Red", 3000, "AM231"));
         car.add(new Car(2352342, "Mersedes", "ML-240", 2019,15,"Black", 12000, "AM342"));
-        System.out.println(ChooseCar.chooseByCompany("Deo", car));
-        System.out.println(ChooseCar.chooseByModelAndYearOfExpluatation("ML-240", 4, car));
-        System.out.println(ChooseCar.chooseByYearAndPrice(2000, 120, car));
+        System.out.println(Methodddddds.chooseByCompany("Deo", car));
+        System.out.println(Methodddddds.chooseByModelAndYearOfExpluatation("ML-240", 4, car));
+        System.out.println(Methodddddds.chooseByYearAndPrice(2000, 120, car));
 
     }
 
