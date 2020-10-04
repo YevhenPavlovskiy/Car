@@ -1,13 +1,11 @@
+package Car;
 import java.util.ArrayList;
 import java.util.List;
 
 public class Methodddddds {
 
-    private List<Car> cars;
-
-    public Methodddddds(List<Car> cars) {
-        this.cars = cars;
-    }
+   public Methodddddds(List<Car> cars) {
+ }
 
     public static List<Car> chooseByCompany(String company, List<Car> cars) {
         List<Car> result = new ArrayList<>();
